@@ -1,0 +1,66 @@
+body{
+    background-color: blue;
+}
+
+.outer{
+    border-radius:25px;
+    border: solid;
+    width:500px;
+    height: 500px;
+    background-color: white;
+    padding-top: 50px;
+}
+.box{
+    border-radius:10px;
+    border: solid;
+    width:50px;
+    height: 60px;
+    margin-left: 25px;
+    text-align: center;
+    margin-top: 15px;
+    display: inline-block;
+}
+.button{
+    height: 60px;
+    width: 50px;
+    border: solid;
+    margin-left:25px ;
+    background-color: yellow;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 15px;
+    display: inline-block;
+}
+.dot{
+    height: 60px;
+    width: 50px;
+    border: solid;
+    margin-left:25px ;
+    background-color: orangered;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 15px;
+    display: inline-block;
+}
+.equals{
+    height: 60px;
+    width: 50px;
+    border: solid;
+    margin-left:25px ;
+    background-color: green;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 15px;
+    display: inline-block;
+}
+.c{
+    background-color: orange;
+    height: 60px;
+    width: 50px;
+    border: solid;
+    margin-left: 25px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 15px;
+    display: inline-block;
+}
